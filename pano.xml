@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node125" apprev="17956" appversion="6.1.8">
+  <panorama id="node125" hideabout="1">
+    <input height="3500" overlap="1" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="3500" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400">
+      <level height="3500" preload="0" width="3500" predecode="0"/>
+      <level height="1750" preload="0" width="1750" predecode="0"/>
+      <level height="875" preload="0" width="875" predecode="0"/>
+      <level height="437" preload="1" width="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="-122"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" tilt="90" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1"/>
+    </view>
+    <userdata description="" copyright="" comment="" customnodeid="" heading="0" longitude="" title="" latitude="" datetime="" nodeid="node125" author="" info="" tags="CMT_Conference_Hall_var1" source="">
+      <mapcoords mapid="FloorPlan01" y="-1.10825" x="0.653687" x_floorplan_percent="37.0717" y_floorplan_percent="62.8505"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderalpha="1" border="1" height="20" borderradius="1" backgroundcolor="0xffffff" width="180" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" enabled="0" background="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" mode="2" backgroundcolor="0xffffff" handcursor="1" bordercolor="0x595959" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" blendtime="1" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" hideabout="1" lockedwheel="0" contextprojections="1" sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" copyright="" comment="" customnodeid="" heading="0" longitude="" title="" latitude="" datetime="" nodeid="master" author="" info="" tags="" source=""/>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 0)" height="1284" type="file" width="1284" id="FloorPlan01" tileformat="png" transparent="1" title="" zoomlevels="4" floorplannorth="359.66"/>
+</tour>
